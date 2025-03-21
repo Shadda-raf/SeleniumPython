@@ -23,4 +23,4 @@ for file_for_dl in files_for_dl:
     except:
         continue
 
-time.sleep(3)
+time.sleep(4)
